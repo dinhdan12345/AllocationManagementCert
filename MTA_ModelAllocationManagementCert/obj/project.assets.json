@@ -1,0 +1,88 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MTA_AllocationManagementCert/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "compile": {
+          "bin/placeholder/MTA_AllocationManagementCert.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MTA_AllocationManagementCert.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MTA_AllocationManagementCert/1.0.0": {
+      "type": "project",
+      "path": "../MTA_AllocationManagementCert/MTA_AllocationManagementCert.csproj",
+      "msbuildProject": "../MTA_AllocationManagementCert/MTA_AllocationManagementCert.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "MTA_AllocationManagementCert >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\danda\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\danda\\source\\repos\\MTA_AllocationManagementCert\\MTA_ModelAllocationManagementCert\\MTA_ModelAllocationManagementCert.csproj",
+      "projectName": "MTA_ModelAllocationManagementCert",
+      "projectPath": "C:\\Users\\danda\\source\\repos\\MTA_AllocationManagementCert\\MTA_ModelAllocationManagementCert\\MTA_ModelAllocationManagementCert.csproj",
+      "packagesPath": "C:\\Users\\danda\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\danda\\source\\repos\\MTA_AllocationManagementCert\\MTA_ModelAllocationManagementCert\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\danda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\danda\\source\\repos\\MTA_AllocationManagementCert\\MTA_AllocationManagementCert\\MTA_AllocationManagementCert.csproj": {
+              "projectPath": "C:\\Users\\danda\\source\\repos\\MTA_AllocationManagementCert\\MTA_AllocationManagementCert\\MTA_AllocationManagementCert.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

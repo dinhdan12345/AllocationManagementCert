@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "e5WmSPHAbD90hWCZb8VGOZ+cO6lSiaA0mBdQsLxHd+xE/DN9uS5vJ4D0+SbQ5REq5XR3XlRRDtu4nCcrRcjmqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danda\\source\\repos\\MTA_AllocationManagementCert\\MTA_ServiceAllocationManagementCert\\MTA_ServiceAllocationManagementCert.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danda\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\danda\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\danda\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\danda\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\danda\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\danda\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\danda\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
