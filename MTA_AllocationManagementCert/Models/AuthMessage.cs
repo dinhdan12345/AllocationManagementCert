@@ -4,25 +4,10 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace MTA_AllocationManagementCert.Models.SystemManagement
+namespace MTA_AllocationManagementCert.Models
 {
-    public class LoginInfoSend
+    public class AuthMessage
     {
-        [Required(ErrorMessage = "Tên đăng nhập không được để trống.")]
-        public string UserName { get; set; }
-        [Required(ErrorMessage = "Mật khẩu không được để trống.")]
-        public string Password { get; set; }
-        //[Required(ErrorMessage = "Vui lòng nhập mã captcha.")]
-        public string Captcha { get; set; }
-        [Required]
-        public bool AutoLogin { get; set; }
-    }
-
-    public class AccountInfo
-    {
-        public string UserName { get; set; }
-        public string Password { get; set; }
-        public bool IsAdmin { get; set; }
     }
     public class UserData
     {
@@ -34,7 +19,14 @@ namespace MTA_AllocationManagementCert.Models.SystemManagement
         public string LastName { get; set; }
         public int Status { get; set; }
     }
-    public class LoginRes
+    public class LogInReq 
+    {
+        [Required]
+        public string UserName { get; set; }
+        [Required]
+        public string Password { get; set; }
+    }
+    public class LogInRes 
     {
         public string SystemToken { get; set; }
         public string SystemExpiredDate { get; set; }

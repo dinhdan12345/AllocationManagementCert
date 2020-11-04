@@ -12,6 +12,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using MTA_AuthAllocationManagementCert.Models.CustomIdentityEFCore;
 using MTA_AuthAllocationManagementCert.Models.DBAuthContext;
+using MTA_CommonAllocationManagementCert;
 
 namespace MTA_AuthAllocationManagementCert
 {
@@ -20,6 +21,7 @@ namespace MTA_AuthAllocationManagementCert
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
+            SysConfig.configuration = configuration;
         }
 
         public IConfiguration Configuration { get; }
@@ -49,6 +51,7 @@ namespace MTA_AuthAllocationManagementCert
                 .AddRoleManager<RoleManager<AppRole>>()
                 .AddRoles<AppRole>()
                 .AddEntityFrameworkStores<DbContextAuth>();
+                //.AddDefaultTokenProviders();
             //.AddClaimsPrincipalFactory<MyUserClaimsPrincipalFactory>();
             // configure DataBase
             services.RegisterDatabases(Configuration);

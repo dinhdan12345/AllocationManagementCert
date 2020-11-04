@@ -34,3 +34,5 @@ C:\Users\danda\source\repos\MTA_AllocationManagementCert\MTA_AuthAllocationManag
 C:\Users\danda\source\repos\MTA_AllocationManagementCert\MTA_AuthAllocationManagementCert\obj\Debug\netcoreapp2.1\MTA_AuthAllocationManagementCert.genruntimeconfig.cache
 C:\Users\danda\source\repos\MTA_AllocationManagementCert\MTA_AuthAllocationManagementCert\obj\Debug\netcoreapp2.1\MTA_AuthAllocationManagementCert.csproj.CopyComplete
 C:\Users\danda\source\repos\MTA_AllocationManagementCert\MTA_AuthAllocationManagementCert\obj\Debug\netcoreapp2.1\MTA_AuthAllocationManagementCert.csproj.CoreCompileInputs.cache
+C:\Users\danda\source\repos\MTA_AllocationManagementCert\MTA_AuthAllocationManagementCert\bin\Debug\netcoreapp2.1\MTA_CommonAllocationManagementCert.dll
+C:\Users\danda\source\repos\MTA_AllocationManagementCert\MTA_AuthAllocationManagementCert\bin\Debug\netcoreapp2.1\MTA_CommonAllocationManagementCert.pdb

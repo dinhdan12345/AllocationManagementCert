@@ -6,29 +6,24 @@ namespace MTA_CommonAllocationManagementCert
 {
     public class FormBaseRes<T>
     {
-        private readonly int Code;
-        private readonly string Message;
-        private readonly bool Success;
-        private readonly T Data;
-
+        /// <summary>
+        /// Thành công/thất bại
+        /// </summary>
+        public bool Success { get; set; }
+        /// <summary>
+        /// Mã lỗi
+        /// </summary>
+        public int Code { get; set; }
+        /// <summary>
+        /// Mô tả lỗi
+        /// </summary>
+        public string Message { get; set; }
+        public T Data { get; set; }
         public FormBaseRes()
         {
-            Code = -1;
-            Message = "Defalut message";
             Success = false;
-        }
-        public FormBaseRes(int code,string message,bool success)
-        {
-            Code = code;
-            Message = message;
-            Success = success;
-        }
-        public FormBaseRes(int code, string message, bool success,T data)
-        {
-            Code = code;
-            Message = message;
-            Success = success;
-            Data = data;
+            Code = -1;
+            Message = "Xử lý request thất bại";
         }
     }
 }

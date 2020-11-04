@@ -34,3 +34,11 @@ C:\Users\danda\source\repos\MTA_AllocationManagementCert\MTA_AllocationManagemen
 C:\Users\danda\source\repos\MTA_AllocationManagementCert\MTA_AllocationManagementCert\obj\Debug\netcoreapp2.1\MTA_AllocationManagementCert.pdb
 C:\Users\danda\source\repos\MTA_AllocationManagementCert\MTA_AllocationManagementCert\obj\Debug\netcoreapp2.1\MTA_AllocationManagementCert.genruntimeconfig.cache
 C:\Users\danda\source\repos\MTA_AllocationManagementCert\MTA_AllocationManagementCert\obj\Debug\netcoreapp2.1\MTA_AllocationManagementCert.csproj.CopyComplete
+C:\Users\danda\source\repos\MTA_AllocationManagementCert\MTA_AllocationManagementCert\bin\Debug\netcoreapp2.1\MTA_AuthAllocationManagementCert.Views.dll
+C:\Users\danda\source\repos\MTA_AllocationManagementCert\MTA_AllocationManagementCert\bin\Debug\netcoreapp2.1\MTA_AuthAllocationManagementCert.Views.pdb
+C:\Users\danda\source\repos\MTA_AllocationManagementCert\MTA_AllocationManagementCert\bin\Debug\netcoreapp2.1\MTA_AuthAllocationManagementCert.dll
+C:\Users\danda\source\repos\MTA_AllocationManagementCert\MTA_AllocationManagementCert\bin\Debug\netcoreapp2.1\MTA_CommonAllocationManagementCert.dll
+C:\Users\danda\source\repos\MTA_AllocationManagementCert\MTA_AllocationManagementCert\bin\Debug\netcoreapp2.1\MTA_ServiceAllocationManagementCert.dll
+C:\Users\danda\source\repos\MTA_AllocationManagementCert\MTA_AllocationManagementCert\bin\Debug\netcoreapp2.1\MTA_AuthAllocationManagementCert.pdb
+C:\Users\danda\source\repos\MTA_AllocationManagementCert\MTA_AllocationManagementCert\bin\Debug\netcoreapp2.1\MTA_CommonAllocationManagementCert.pdb
+C:\Users\danda\source\repos\MTA_AllocationManagementCert\MTA_AllocationManagementCert\bin\Debug\netcoreapp2.1\MTA_ServiceAllocationManagementCert.pdb

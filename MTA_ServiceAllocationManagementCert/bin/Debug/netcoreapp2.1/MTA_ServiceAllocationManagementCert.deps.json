@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "MTA_ServiceAllocationManagementCert/1.0.0": {
+        "runtime": {
+          "MTA_ServiceAllocationManagementCert.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MTA_ServiceAllocationManagementCert/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

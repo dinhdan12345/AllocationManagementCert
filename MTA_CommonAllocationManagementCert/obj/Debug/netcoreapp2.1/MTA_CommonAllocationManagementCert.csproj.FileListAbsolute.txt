@@ -1,0 +1,9 @@
+C:\Users\danda\source\repos\MTA_AllocationManagementCert\MTA_CommonAllocationManagementCert\bin\Debug\netcoreapp2.1\MTA_CommonAllocationManagementCert.deps.json
+C:\Users\danda\source\repos\MTA_AllocationManagementCert\MTA_CommonAllocationManagementCert\bin\Debug\netcoreapp2.1\MTA_CommonAllocationManagementCert.dll
+C:\Users\danda\source\repos\MTA_AllocationManagementCert\MTA_CommonAllocationManagementCert\bin\Debug\netcoreapp2.1\MTA_CommonAllocationManagementCert.pdb
+C:\Users\danda\source\repos\MTA_AllocationManagementCert\MTA_CommonAllocationManagementCert\obj\Debug\netcoreapp2.1\MTA_CommonAllocationManagementCert.csprojAssemblyReference.cache
+C:\Users\danda\source\repos\MTA_AllocationManagementCert\MTA_CommonAllocationManagementCert\obj\Debug\netcoreapp2.1\MTA_CommonAllocationManagementCert.AssemblyInfoInputs.cache
+C:\Users\danda\source\repos\MTA_AllocationManagementCert\MTA_CommonAllocationManagementCert\obj\Debug\netcoreapp2.1\MTA_CommonAllocationManagementCert.AssemblyInfo.cs
+C:\Users\danda\source\repos\MTA_AllocationManagementCert\MTA_CommonAllocationManagementCert\obj\Debug\netcoreapp2.1\MTA_CommonAllocationManagementCert.dll
+C:\Users\danda\source\repos\MTA_AllocationManagementCert\MTA_CommonAllocationManagementCert\obj\Debug\netcoreapp2.1\MTA_CommonAllocationManagementCert.pdb
+C:\Users\danda\source\repos\MTA_AllocationManagementCert\MTA_CommonAllocationManagementCert\obj\Debug\netcoreapp2.1\MTA_CommonAllocationManagementCert.csproj.CoreCompileInputs.cache
